@@ -15,8 +15,8 @@ class First {
 		sum=0;
 		for(j=0;j<=2;j++)
 		{
-			sum=sum+arr[i][j];
-			System.out.print("\t"+arr[j][i]);
+			sum=sum+arr[j][i];
+			System.out.print("\t"+arr[i][j]);
 			
 		}
 		System.out.println("="+sum);
