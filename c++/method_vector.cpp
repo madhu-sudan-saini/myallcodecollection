@@ -29,7 +29,7 @@ int main() {
     cout << "Before pop:\n";
     int i;
     for (i=0;i<v.size();i++){
-        cout << i << " ";
+        cout <<v[i] << " ";
     }
     cout << "\n";
     
@@ -37,7 +37,7 @@ int main() {
     
     cout << "After pop:\n";
     for (i=0;i<v.size();i++) {
-        cout << i << " ";
+        cout << v[i] << " ";
     }
     cout << "\n";
     
