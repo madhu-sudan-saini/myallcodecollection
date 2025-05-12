@@ -4,12 +4,10 @@ class First
 	public static void main(String args[])
 	{
 		
-		StringBuffer s1=new StringBuffer("hello world how are you ");
+		StringBuffer s=new StringBuffer("hello world how are you ");
+	
+		s.delete(6,12);
 		
-		System.out.println(s1);
-		
-		s1.insert(12,"ajmer ");
-		
-		System.out.println(s1);
+		System.out.println(s);
   }
 }
