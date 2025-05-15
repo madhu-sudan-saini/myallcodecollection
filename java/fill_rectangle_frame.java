@@ -13,7 +13,6 @@ class WinDemo extends Frame
 	{
 
 		g.setColor(Color.YELLOW);
-		g.drawRect(300,200,400,500);
 		g.fillRect(300,200,400,500);
 	}
 }
