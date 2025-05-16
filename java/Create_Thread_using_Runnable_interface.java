@@ -30,7 +30,7 @@ class Demo
 {
 	public static void main(String args[])
 	{
-		MyThread f =new MyThread("child");
+		MyThread m =new MyThread("child");
 		int i;
 		for(i=0;i<=10;i++)
 		{	
