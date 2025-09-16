@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on open-source projects, coding challenges, and problem-solving communities.  
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact:  I love turning real-life problems into coding projects!
 
 <!---
 madhu-sudan-saini/madhu-sudan-saini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
