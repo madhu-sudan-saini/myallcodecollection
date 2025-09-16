@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madhu-sudan-saini
 - 👀 I’m interested in solving problems using programming languages 
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns: ...
